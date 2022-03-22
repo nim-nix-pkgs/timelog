@@ -9,7 +9,7 @@
   
   inputs.src-timelog-main.flake = false;
   inputs.src-timelog-main.owner = "Clonkk";
-  inputs.src-timelog-main.ref   = "refs/heads/main";
+  inputs.src-timelog-main.ref   = "main";
   inputs.src-timelog-main.repo  = "timelog";
   inputs.src-timelog-main.type  = "github";
   

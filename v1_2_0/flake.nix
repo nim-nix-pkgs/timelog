@@ -11,7 +11,6 @@
   inputs.src-timelog-v1_2_0.ref   = "refs/tags/v1.2.0";
   inputs.src-timelog-v1_2_0.owner = "Clonkk";
   inputs.src-timelog-v1_2_0.repo  = "timelog";
-  inputs.src-timelog-v1_2_0.dir   = "";
   inputs.src-timelog-v1_2_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
